@@ -51,6 +51,7 @@ cover/
 # Environment variables
 .env
 .venv
+env.py
 ENV/
 env/
 venv/
